@@ -4,7 +4,7 @@ Ripple is a client-facing app geared towards tech-oriented users to help them au
 
 ## Team
 
-  - __Product Owner__: Kyle Chun
+  - __Product Owner__: Ben Hesseldieck
   - __Scrum Master__: Kyle Chun
   - __Development Team Members__: Kyle Chun, Ben Hesseldieck, Dylan Larrabee, Alec Maliwanag
 
@@ -13,8 +13,8 @@ Ripple is a client-facing app geared towards tech-oriented users to help them au
 1. [Usage](#Usage)
 2. [Requirements](#requirements)
 3. [Development](#development)
-    i. [Installing Dependencies](#installing-dependencies)
-    ii. [Tasks](#tasks)
+  <br/>i. [Installing Dependencies](#installing-dependencies)
+  <br/>ii. [Tasks](#tasks)
 4. [Team](#team)
 5. [Contributing](#contributing)
 
@@ -27,7 +27,7 @@ Simply press [here](https://regifters48.herokuapp.com) to view Ripple's landing 
 
 ## Requirements
 
-- Node 0.10.x
+- Node 6.6.x or higher
 - Postgresql 9.1.x
 - etc
 
